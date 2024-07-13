@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-side-by-side",
+  "name": "@linkbee/leaflet-side-by-side",
   "version": "2.2.0",
   "description": "Compare two Leaflet layers side by side",
   "main": "index.js",
